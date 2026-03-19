@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    private EditText enter;  // Input field for new tasks
+    private EditText enter;  
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
